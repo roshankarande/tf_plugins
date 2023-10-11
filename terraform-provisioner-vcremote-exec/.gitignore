@@ -1,0 +1,11 @@
+.idea/*
+.terraform/*
+*.tfstate.*
+*.tfstate
+
+examples/**/.terraform
+examples/**/*.tfstate
+examples/**/*.tfstate.backup
+
+*.exe
+main.tf
